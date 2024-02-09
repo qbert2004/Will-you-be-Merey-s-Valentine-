@@ -60,4 +60,4 @@
       
       function updateNoButtonText() {
         noButton.innerHTML = generateMessage(noCount);
-      } </script>
+      }
